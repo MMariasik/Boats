@@ -1,0 +1,14 @@
+boats the game
+
+classes:
+    boat
+    map
+    
+
+main game intellection:
+    player first meets with menu, which has 2(optional 3) options to choose, first one is to join someone's game, where player needs to pass special code(or something idk yet). Second one is creating a game, where game gives him special code to pass to friend, and after connection, he accepts or declines him.
+    As both connect, the game will start. Players will be in preparation mode, where they will set the boats on map, it will be limited in time and if any boat wont be placed. Game will randomly place it on map. After it im gonna prepare minigame, a rock-paper-scissors to win first move, player with move has limited time to choose where to shoot, if he dont choose, he losses his move. Game ends when one player losses all of his boats
+
+graphical contest:
+    so the visible side of game will be buttons, maps, boats, x'es where was shoot directed, timer, some textes like, whose round is, or in config, if the other player is ready or not. Once boats are placed and game runs, they wont change their positions, so I can merge them into map pic, same with x'es. 
+    if its enemies round, I'll be able to see his mouse coursor, to see where he might shoot, which can increase adrenaline xD.

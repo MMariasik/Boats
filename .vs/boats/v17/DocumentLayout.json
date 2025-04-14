@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|solutionrelative:boats\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|solutionrelative:boats\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|solutionrelative:boats\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\boatClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|solutionrelative:boats\\boatClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\boatClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|solutionrelative:boats\\boatClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\boats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|solutionrelative:boats\\boats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\buttonFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|solutionrelative:boats\\buttonFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\handleNetworking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|solutionrelative:boats\\handleNetworking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\Tdative.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|solutionrelative:boats\\Tdative.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\TenterCodeGUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|solutionrelative:boats\\TenterCodeGUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\Tsounds.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|solutionrelative:boats\\Tsounds.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\Tsounds.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F2D6ED1-543C-46FF-BCD1-1960F4494829}|boats\\boats.vcxproj|solutionrelative:boats\\Tsounds.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "map.cpp",
+              "DocumentMoniker": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\map.cpp",
+              "RelativeDocumentMoniker": "boats\\map.cpp",
+              "ToolTip": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\map.cpp",
+              "RelativeToolTip": "boats\\map.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T10:33:37.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\game.h",
+              "RelativeDocumentMoniker": "boats\\game.h",
+              "ToolTip": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\game.h",
+              "RelativeToolTip": "boats\\game.h",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T10:18:13.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "boatClass.h",
+              "DocumentMoniker": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\boatClass.h",
+              "RelativeDocumentMoniker": "boats\\boatClass.h",
+              "ToolTip": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\boatClass.h",
+              "RelativeToolTip": "boats\\boatClass.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T10:16:10.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tdative.cpp",
+              "DocumentMoniker": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\Tdative.cpp",
+              "RelativeDocumentMoniker": "boats\\Tdative.cpp",
+              "ToolTip": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\Tdative.cpp",
+              "RelativeToolTip": "boats\\Tdative.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAD4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T10:15:19.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TenterCodeGUI.cpp",
+              "DocumentMoniker": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\TenterCodeGUI.cpp",
+              "RelativeDocumentMoniker": "boats\\TenterCodeGUI.cpp",
+              "ToolTip": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\TenterCodeGUI.cpp",
+              "RelativeToolTip": "boats\\TenterCodeGUI.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T10:15:19.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "boatClass.cpp",
+              "DocumentMoniker": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\boatClass.cpp",
+              "RelativeDocumentMoniker": "boats\\boatClass.cpp",
+              "ToolTip": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\boatClass.cpp",
+              "RelativeToolTip": "boats\\boatClass.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T10:15:19.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "handleNetworking.cpp",
+              "DocumentMoniker": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\handleNetworking.cpp",
+              "RelativeDocumentMoniker": "boats\\handleNetworking.cpp",
+              "ToolTip": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\handleNetworking.cpp",
+              "RelativeToolTip": "boats\\handleNetworking.cpp",
+              "ViewState": "AQIAAEMBAAAAAAAAAIAwwFwBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T10:15:19.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "buttonFunctions.cpp",
+              "DocumentMoniker": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\buttonFunctions.cpp",
+              "RelativeDocumentMoniker": "boats\\buttonFunctions.cpp",
+              "ToolTip": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\buttonFunctions.cpp",
+              "RelativeToolTip": "boats\\buttonFunctions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T10:15:19.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.cpp",
+              "DocumentMoniker": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\game.cpp",
+              "RelativeDocumentMoniker": "boats\\game.cpp",
+              "ToolTip": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\game.cpp",
+              "RelativeToolTip": "boats\\game.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswE0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T10:15:19.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tsounds.cpp",
+              "DocumentMoniker": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\Tsounds.cpp",
+              "RelativeDocumentMoniker": "boats\\Tsounds.cpp",
+              "ToolTip": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\Tsounds.cpp",
+              "RelativeToolTip": "boats\\Tsounds.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T10:15:19.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tsounds.h",
+              "DocumentMoniker": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\Tsounds.h",
+              "RelativeDocumentMoniker": "boats\\Tsounds.h",
+              "ToolTip": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\Tsounds.h",
+              "RelativeToolTip": "boats\\Tsounds.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T10:15:19.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "boats.cpp",
+              "DocumentMoniker": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\boats.cpp",
+              "RelativeDocumentMoniker": "boats\\boats.cpp",
+              "ToolTip": "D:\\RZECZY DO ZOSTAWIENIA PO FORMACIE\\PROGRAMY DLA VISUAL STUDIO\\projekttogry\\boats\\boats\\boats.cpp",
+              "RelativeToolTip": "boats\\boats.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T10:15:19.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

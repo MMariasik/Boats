@@ -1,0 +1,1 @@
+So lets talk a little about classes and modules. Game class is the head of all, there will whole game happening, other classes like boats, buttons, maps, are the prepared parts prepared to use for it.
