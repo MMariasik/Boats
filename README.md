@@ -3,7 +3,7 @@ Boats is a digital version of usually played on paper game, where your goal is t
 Game is for 2 players, one is a host, and the second one joins his lobby using special code. Applications communicate via internet, so both players needs to be in the same network.
 
 All images, and code was done by myself, 
-sounds where found online.
+sounds were found online.
 
 # Main menu
 ![Alt text](/screenshots/boats1.png?raw=true "MainMenu")
